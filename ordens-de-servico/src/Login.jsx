@@ -62,7 +62,7 @@ export default function Login() {
         </button>
 
         <p className="text-xs text-slate-400 mt-4">
-          Não tem uma conta? Peça ao administrador para te convidar pelo painel do Supabase.
+          Não tem uma conta? Peça ao administrador para te convidar
         </p>
       </form>
     </div>
